@@ -1,0 +1,5 @@
+[
+  { "file": "1-cover.jpg", "path": "/", "viewport": { "width": 1280, "height": 800 } },
+  { "file": "2-repository.jpg", "path": "/slyfunds-commits/field-notes", "viewport": { "width": 1280, "height": 800 } },
+  { "file": "3-repositories.jpg", "path": "/", "scroll": 380, "viewport": { "width": 1280, "height": 800 } }
+]
